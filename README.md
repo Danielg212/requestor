@@ -1,7 +1,7 @@
 > Http Generic Type Callback
 
-## Installation
+## Installation a
 
 ```sh
-$ npm install --save requestor
-```
+$ npm install --save requestor 
+```ß
