@@ -1,5 +1,5 @@
 {
-  "name": "requestor",
+  "name": "requestor-api",
   "version": "1.0.0",
   "description": "> Http Generic Type Callback",
   "main": "lib/requestor.js",
