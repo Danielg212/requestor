@@ -3,5 +3,5 @@
 ## Installation
 
 ```sh
-$ npm install --save requestor 
+$ npm install --save requestor-api
 ```
