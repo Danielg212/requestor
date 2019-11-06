@@ -4,7 +4,7 @@
 ## Installation
 
 ```sh
-$ npm install --save requestor
+$ npm install --save requestor-api   
 ```
 
 ## Usage
@@ -194,4 +194,4 @@ export default class LoginButton extends Vue implements OnRequestorCallback {
 ## License
 MIT
 
- []("")
+ [daniel gi]("")

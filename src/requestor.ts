@@ -71,8 +71,7 @@ export class QueryString {
         this.qsMap.forEach((value: string, key: string) => {
             res += key + '=' + value + '&'
         })
-        return res.slice(0, -1)
-    }
+        return res.slice(0, -1)    }
 }
 
 export class RoutingRule {
