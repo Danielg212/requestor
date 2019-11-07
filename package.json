@@ -1,6 +1,6 @@
 {
   "name": "requestor-api",
-  "version": "1.0.7",
+  "version": "1.0.71",
   "description": "> Http Generic Type Callback",
   "main": "lib/requestor.js",
   "types": "lib/requestor.d.ts",
