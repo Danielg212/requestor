@@ -179,7 +179,7 @@ export default class LoginButton extends Vue implements OnRequestorCallback {
       .setHeader(this.header)
       .setRoutingRule(rr)
       .setBody(user)
-      .commit(baseUrl,api, this, "Valhalla")
+      .commit(baseUrl,"api", this, "Valhalla")
 
 
   }
